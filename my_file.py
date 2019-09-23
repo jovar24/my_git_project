@@ -1,3 +1,4 @@
 print("hi git")
 
-print("hello world")
+money = input("how much money is in the bag?")
+print(money)
